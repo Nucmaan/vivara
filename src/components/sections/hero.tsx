@@ -33,10 +33,10 @@ const HeroSection = () => {
 
           {/* Headline */}
         <div className="text-center mb-8">
-          <h1 className="text-[48px] font-bold leading-[1.2] mb-2 drop-shadow-md">
+          <h1 className="text-[48px] text-white font-bold leading-[1.2] mb-2 drop-shadow-md">
             Real homes live in East Africa. Find yours today.
           </h1>
-          <h2 className="text-[22px] font-medium tracking-wide opacity-95">
+          <h2 className="text-[22px] text-white font-medium tracking-wide opacity-95">
             Real Data. Real Brokers. Real Properties.
           </h2>
         </div>
