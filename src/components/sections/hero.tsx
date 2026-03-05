@@ -34,7 +34,7 @@ const HeroSection = () => {
           {/* Headline */}
         <div className="text-center mb-8">
           <h1 className="text-[48px] font-bold leading-[1.2] mb-2 drop-shadow-md">
-            Real homes live in Somalia
+            Real homes live in East Africa. Find yours today.
           </h1>
           <h2 className="text-[22px] font-medium tracking-wide opacity-95">
             Real Data. Real Brokers. Real Properties.
@@ -114,7 +114,7 @@ const HeroSection = () => {
                     <span className="text-[10px] font-black">AI</span>
                   </div>
                   <span className="text-[14px] font-medium text-gray-500">
-                    Want to find out more about Somalia real estate using AI?
+                    Want to find out more about East Africa real estate using AI?
                   </span>
                 </div>
                 <button className="flex items-center gap-2 text-[#00875A] font-bold text-[14px] hover:underline mt-2 sm:mt-0 transition-all">
